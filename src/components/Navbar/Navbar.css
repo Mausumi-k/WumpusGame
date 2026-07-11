@@ -1,0 +1,35 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 32px;
+  margin: 16px;
+  border-width: 4px;
+}
+
+.navbar-logo h1 {
+  font-size: 1.5rem;
+  color: var(--color-primary);
+  text-shadow: 2px 2px 0 #000;
+}
+
+.navbar-links {
+  font-family: var(--font-pixel);
+  font-size: 0.8rem;
+}
+
+.user-info {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.btn-logout {
+  color: var(--color-danger);
+  text-decoration: underline;
+  font-size: 0.8rem;
+}
+
+.btn-logout:hover {
+  color: #ff6b6b;
+}

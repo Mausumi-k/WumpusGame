@@ -1,0 +1,55 @@
+.cell {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  border: 2px solid var(--color-border);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  font-size: 2rem;
+  border-radius: 4px;
+}
+
+.cell-unvisited {
+  background-color: #0a0a0c;
+  color: var(--color-border);
+}
+
+.cell-visited {
+  background-color: #2b282c;
+}
+
+.cell-player {
+  background-color: #3b373e;
+  border-color: var(--color-primary);
+  box-shadow: inset 0 0 10px rgba(230, 157, 69, 0.2);
+}
+
+.fog-icon {
+  font-family: var(--font-pixel);
+  font-size: 1.5rem;
+  opacity: 0.3;
+}
+
+.cell-content {
+  z-index: 2;
+  font-size: 2.5rem;
+}
+
+.cell-percepts {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  font-size: 0.8rem;
+  z-index: 1;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 2px;
+  border-radius: 4px;
+}
+
+.percept-icon {
+  line-height: 1;
+}
