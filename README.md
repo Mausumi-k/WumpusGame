@@ -57,4 +57,4 @@ The goal of this project is to create an engaging console-based game while apply
 
 Mausumi Kommineni
 
-<p align="center"> 🎨 <strong>🐉 Wumpus Game —— Explore. Strategize. Survive.</strong> </p>
+<p align="center"> 🐉<strong> Wumpus Game —— Explore. Strategize. Survive.</strong> </p>
