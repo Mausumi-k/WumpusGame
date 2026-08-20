@@ -1,16 +1,58 @@
-# React + Vite
+# 🐉 Wumpus Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+> A classic text-based adventure game where players explore a dangerous cave, avoid deadly traps, and hunt the Wumpus.
 
-Currently, two official plugins are available:
+The **Wumpus Game** is a console-based adventure game inspired by the classic **Hunt the Wumpus** game. Players navigate through a cave, make strategic decisions, and try to find and eliminate the Wumpus while avoiding hazards.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+**Cave Exploration** — Navigate through different rooms and explore the cave.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Wumpus Hunt** — Locate and eliminate the hidden Wumpus.
 
-## Expanding the Oxlint configuration
+**Deadly Hazards** — Avoid dangerous pits and other threats.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+**Strategic Gameplay** — Use clues and make careful decisions to survive.
+
+**Interactive Gameplay** — Player actions determine the outcome of the game.
+
+##  Built With
+
+* Java
+* Object-Oriented Programming
+* Console-based Interface
+
+## How to Play
+
+1. Start the game.
+2. Explore the different rooms in the cave.
+3. Use the clues around you to identify nearby dangers.
+4. Avoid deadly pits and the Wumpus.
+5. Find the Wumpus and eliminate it.
+6. Survive and win the game!
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/wumpus-game.git
+cd wumpus-game
+```
+
+Compile and run the game:
+
+```bash
+javac Main.java
+java Main
+```
+
+## Project Goal
+
+The goal of this project is to create an engaging console-based game while applying **Java programming and Object-Oriented Programming concepts** such as classes, objects, methods, conditions, and game logic.
+
+---
+
+### 🐉 Wumpus Game
+
+**Explore. Strategize. Survive.**
