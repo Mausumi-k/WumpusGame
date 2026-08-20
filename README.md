@@ -53,6 +53,8 @@ The goal of this project is to create an engaging console-based game while apply
 
 ---
 
-### 🐉 Wumpus Game
+###Author
 
-**Explore. Strategize. Survive.**
+Mausumi Kommineni
+
+<p align="center"> 🎨 <strong>🐉 Wumpus Game —— Explore. Strategize. Survive.</strong> </p>
